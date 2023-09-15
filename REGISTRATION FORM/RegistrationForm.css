@@ -133,6 +133,10 @@
     font-size: 2.0rem;
     color: black;
   }
+  footer
+  {
+    background-color: black;;
+  }
 
   @media (max-width: 768px) 
   {
