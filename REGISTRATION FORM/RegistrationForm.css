@@ -135,7 +135,8 @@
   }
   footer
   {
-    background-color: black;;
+    background-color: black;
+    text-align: center; 
   }
 
   @media (max-width: 768px) 
